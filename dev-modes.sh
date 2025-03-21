@@ -1,7 +1,7 @@
 #!/bin/bash
 
-VSCODE_PATH="/usr/bin/code"  # Adjust if your VS Code path is different
-CHROME_PATH="/usr/bin/google-chrome-stable" # Adjust if your Chrome path is different
+VSCODE_PATH="/usr/bin/code"  
+CHROME_PATH="/usr/bin/google-chrome-stable"
 
 CHATGPT_URL="https://chat.openai.com/"
 DEEPSEEK_URL="https://deepseek.com/"
