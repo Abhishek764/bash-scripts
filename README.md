@@ -13,7 +13,7 @@ Welcome to my **Bash Scripts Collection** repository! 🚀 This repo contains a 
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bash-scripts.git
+   git clone https://github.com/abhishek764/bash-scripts.git
    cd bash-scripts
    ```
 2. Make a script executable:
@@ -34,4 +34,4 @@ This repository is licensed under the **MIT License**, so you can freely use and
 ---
 
 ## 📬 Contact
-For any queries or suggestions, reach out via GitHub Issues or [your email].
+For any queries or suggestions, reach out via GitHub Issues or work.abhishek91@gmail.com.
